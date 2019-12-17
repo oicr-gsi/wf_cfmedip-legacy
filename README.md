@@ -1,7 +1,7 @@
 # wf-cfMeDIP
 Workflow for cfMeDIP data analysis using Docker and WDL
 
-![wf_cfmedip_overview](img/plot_wf_cfmedip_overview.png)
+![wf_cfmedip_overview](img/plot_wf_cfmedip_overview2.png)
 
 ## Installation
 **Option 1:**
